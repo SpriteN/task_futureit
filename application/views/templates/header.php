@@ -22,9 +22,10 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             <li><a href="<?php echo base_url(); ?>">Home</a></li>
-            <li><a href="<?php echo base_url(); ?>/about">about</a></li>
+            <li><a href="<?php echo base_url(); ?>about">about</a></li>
 
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>
+    <div class="container">
